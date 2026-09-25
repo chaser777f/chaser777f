@@ -19,6 +19,11 @@ A small merchant encounter where game rules validate prices, inventory, and purc
 
 A work-in-progress Godot prototype with resident needs, production chains, delivery traffic, and save/load functionality. The showcase includes actual in-game captures and explains which scenes use development test setups.
 
+### [StonkDesk](https://github.com/chaser777f/stonkdesk-showcase)
+**Keep research evidence, source dates, and missing data visible.**
+
+A stock-research and data-monitoring prototype with company comparisons, research briefs, and explicit data-quality warnings. The showcase uses synthetic fixtures; it demonstrates software behavior rather than investment results.
+
 ## How I work
 
 I choose the direction and features for these projects, try things out, and use AI assistance to help implement and refine them. I don't present the code as entirely hand-written work.
