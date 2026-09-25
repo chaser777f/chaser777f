@@ -9,6 +9,11 @@ I build personal software projects using AI-assisted development. I'm interested
 
 An editor tool for inspecting before-and-after values, catching blank or duplicate IDs, and applying changes with backups and a restore option. The showcase explains the workflow and current limitations.
 
+### [StonkDesk](https://github.com/chaser777f/stonkdesk-showcase)
+**Keep research evidence, source dates, and missing data visible.**
+
+A stock-research and data-monitoring prototype with company comparisons, research briefs, and explicit data-quality warnings. The showcase uses synthetic fixtures; it demonstrates software behavior rather than investment results.
+
 ### [NPC Decision Lab](https://github.com/chaser777f/npc-decision-lab-showcase)
 **Explore conversations without giving dialogue control over purchases.**
 
@@ -19,14 +24,9 @@ A small merchant encounter where game rules validate prices, inventory, and purc
 
 A work-in-progress Godot prototype with resident needs, production chains, delivery traffic, and save/load functionality. The showcase includes actual in-game captures and explains which scenes use development test setups.
 
-### [StonkDesk](https://github.com/chaser777f/stonkdesk-showcase)
-**Keep research evidence, source dates, and missing data visible.**
-
-A stock-research and data-monitoring prototype with company comparisons, research briefs, and explicit data-quality warnings. The showcase uses synthetic fixtures; it demonstrates software behavior rather than investment results.
-
 ## How I work
 
-I choose the direction and features for these projects, try things out, and use AI assistance to help implement and refine them. I don't present the code as entirely hand-written work.
+I choose project goals and features, try out workflows, and use AI-assisted development to implement and refine ideas.
 
 I care about reviewing changes, protecting private information, and being clear about what has actually been verified. Automated checks run with AI assistance are different from manual tests I perform myself; project notes should make that distinction clear.
 
