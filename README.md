@@ -31,3 +31,7 @@ I choose project goals and features, try out workflows, and use AI-assisted deve
 I care about reviewing changes, protecting private information, and being clear about what has actually been verified. Automated checks run with AI assistance are different from manual tests I perform myself; project notes should make that distinction clear.
 
 These are personal projects at different stages of development. The public repositories above contain screenshots and explanations; application source and credentials stay private.
+
+## Contact
+
+For job opportunities or questions about my projects, email [chasefore@gmail.com](mailto:chasefore@gmail.com).
