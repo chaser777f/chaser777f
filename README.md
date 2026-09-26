@@ -14,6 +14,11 @@ An editor tool for inspecting before-and-after values, catching blank or duplica
 
 A stock-research and data-monitoring prototype with company comparisons, research briefs, and explicit data-quality warnings. The showcase uses synthetic fixtures; it demonstrates software behavior rather than investment results.
 
+### [Dungeon Steps](https://github.com/chaser777f/dungeon-steps-showcase)
+**Check connected RPG systems through gameplay and character persistence.**
+
+An AI-assisted, MMO-style RPG prototype. The showcase documents a shared player/AI playtest of combat, equipment, a shop transaction, and character reload, with screenshots and known issues. Multiplayer capacity was not tested in this session.
+
 ### [NPC Decision Lab](https://github.com/chaser777f/npc-decision-lab-showcase)
 **Explore conversations without giving dialogue control over purchases.**
 
